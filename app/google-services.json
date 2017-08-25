@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "663477623123",
+    "firebase_url": "https://sies-gst-7c3b5.firebaseio.com",
+    "project_id": "sies-gst-7c3b5",
+    "storage_bucket": "sies-gst-7c3b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663477623123:android:5ddbc800ef6aefac",
+        "android_client_info": {
+          "package_name": "in.autonxt.siesgst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663477623123-s0516invnak81njar7d62t4u1p0r4m00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.autonxt.siesgst",
+            "certificate_hash": "0771a0646440be04e2aa3680ae8c86890b55084c"
+          }
+        },
+        {
+          "client_id": "663477623123-dgt7k0cj5qca2idn7frqn7t8005neki3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevnH3Pi2q48lUFGwKsYpfcbGp6JPBsGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663477623123-dgt7k0cj5qca2idn7frqn7t8005neki3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
